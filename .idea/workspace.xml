@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ecd2741a-ae63-4cb7-828b-284800879d35" name="Default Changelist" comment="du">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thisfile.html" beforeDir="false" afterPath="$PROJECT_DIR$/thisfile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +53,11 @@
     <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.thisfile.html">
+  <component name="RunManager" selected="JavaScript Debug.about.html">
     <configuration name="Contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled1/Contact.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled1/about.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="thisfile.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled1/thisfile.html" useBuiltInWebServerPort="true">
@@ -62,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.about.html" />
         <item itemvalue="JavaScript Debug.thisfile.html" />
         <item itemvalue="JavaScript Debug.Contact.html" />
       </list>
@@ -76,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604826724841</updated>
       <workItem from="1604826725899" duration="3087000" />
-      <workItem from="1604830322597" duration="3986000" />
+      <workItem from="1604830322597" duration="4949000" />
     </task>
     <servers />
   </component>
