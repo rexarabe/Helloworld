@@ -53,13 +53,17 @@
     <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.thisfile.html">
+    <configuration name="Contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled1/Contact.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="thisfile.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled1/thisfile.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.thisfile.html" />
+        <item itemvalue="JavaScript Debug.Contact.html" />
       </list>
     </recent_temporary>
   </component>
@@ -72,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604826724841</updated>
       <workItem from="1604826725899" duration="3087000" />
-      <workItem from="1604830322597" duration="1621000" />
+      <workItem from="1604830322597" duration="2990000" />
     </task>
     <servers />
   </component>
